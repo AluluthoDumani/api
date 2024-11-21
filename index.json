@@ -1,0 +1,74 @@
+[
+    {
+        "firstName": "Alulutho",
+        "lastName" : "Dumani",
+        "favHobby": "singing",
+        "criminal": false,
+        "dreamCars"  : [
+            {
+                "carName" : "BMW",
+                "engineCapacity" : 3,
+                "model": "X6"
+            },
+            {
+                "carName" : "Audi",
+                "engineCapacity" : 10,
+                "model": "A1"
+            }
+        ]
+    },
+    {
+        "firstName": "Sbhahle",
+        "lastName" : "Mzobe",
+        "favHobby": "Sleeping",
+        "criminal": false,
+        "dreamCars"  : [
+            {
+                "carName" : "Bentley",
+                "engineCapacity" : 2,
+                "model": "Bentyage"
+            },
+            {
+                "carName" : "Mercendes",
+                "engineCapacity" : 1,
+                "model": "GLC"
+            }
+        ]
+    },
+    {
+        "firstName": "Azola",
+        "lastName" : "Ndoda",
+        "favHobby": "Reading",
+        "criminal": true,
+        "dreamCars"  : [
+            {
+                "carName" : "Lamborghini Truck",
+                "engineCapacity" : 8,
+                "model": "X6"
+            },
+            {
+                "carName" : "Jeep",
+                "engineCapacity" : 6,
+                "model": "A34"
+            }
+        ]
+    },
+    {
+        "firstName": "Moesha",
+        "lastName" : "Hlongwane",
+        "favHobby": "Mdavazo",
+        "criminal": true,
+        "dreamCars"  : [
+            {
+                "carName" : "Land Rover",
+                "engineCapacity" : 4,
+                "model": "Defender V8"
+            },
+            {
+                "carName" : "BMW",
+                "engineCapacity" : 7,
+                "model": "X4"
+            }
+        ]
+    }
+]
